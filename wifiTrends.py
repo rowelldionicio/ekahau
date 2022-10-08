@@ -15,7 +15,9 @@ Majority of script written by François Vergès, modified by Rowell Dionicio (@r
 https://rowelldionicio.com
 Created on: October 7, 2022
 Description: This Python python script was something put together quickly. It iterates through Ekahau files and creates
-a CSV file with the following information, filename, AP name, channel, channel width, and protocol.
+a CSV file with the following information, filename, AP name, channel, channel width, and protocol. 
+
+A CSV file was created in advanced which contained the following headers: File, AP Name, Channel, Channel Width, Protocol
 """
 
 CHANNELS = {
